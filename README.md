@@ -14,8 +14,8 @@
 - Firebase
 
 ## Screenshots
+![image](./src/assets/screen2.png)
 ![image](./src/assets/screen1.png)
-![image](./src/assets/Screen2.png)
 
 ## Installation
 
